@@ -74,11 +74,11 @@ Certifications & Achievements
 
 GitHub Activity & Metrics
 
-"GitHub Stats" ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+"GitHub Stats" ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lewis-marvel&show_icons=true&theme=tokyonight)
 
-"GitHub Streak" ![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+"GitHub Streak" ![GitHub Streak](https://streak-stats.demolab.com?user=lewis-marvel&theme=tokyonight)
 
-"Top Languages" ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+"Top Languages" ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lewis-marvel&layout=compact&theme=tokyonight)
 ---
 
 Connect With Me
