@@ -1,109 +1,95 @@
-Lewis Mclaren
+Hi there, I'm Lewis Mclaren 👋
 
-B.Tech Artificial Intelligence and Data Science Student
-
-Aspiring AI Engineer | Data Analyst
+B.Tech AI&DS Student | Python Learner | Aspiring Data Analyst & AI Engineer
 
 ---
 
 About Me
 
-Hi, I'm Lewis Mclaren, a B.Tech Artificial Intelligence and Data Science student.
-
-I'm interested in Artificial Intelligence, Data Science, Machine Learning, and Software Development. I'm currently building my programming fundamentals and exploring different areas of technology to discover where I can create the most impact.
-
-I enjoy learning new concepts, solving problems, and continuously improving my technical skills.
-
----
-
-Skills
-
-Programming
-
-- Python
-- C
-- SQL
-
-Currently Exploring
-
-- Data Structures and Algorithms
-- Data Analysis
-- Machine Learning
-- Artificial Intelligence
-- Database Management
-
-Soft Skills
-
-- Problem Solving
-- Creativity
-- Leadership
-- Curiosity
-- Willingness to Learn
+- 🎓 Pursuing B.Tech in Artificial Intelligence & Data Science
+- 🐍 Building a strong foundation in Python, C, Data Structures & Problem Solving
+- 🤖 Working toward becoming a Data Analyst, with a long-term goal of becoming an AI Engineer
+- 🧠 Interested in Artificial Intelligence, Data Science, Machine Learning & Technology
+- 📚 Currently learning Python, SQL, Statistics and Machine Learning fundamentals
+- 🚀 Focused on building real-world projects and improving my technical skills
+- 🎯 Career goal: 10+ LPA placement by my 3rd year
 
 ---
 
-Learning Journey
+Tech Stack & Tooling
 
-Programming Fundamentals
-        ↓
-Python + C + SQL
-        ↓
-Data Structures & Algorithms
-        ↓
-Data Analysis
-        ↓
-Machine Learning
-        ↓
-Artificial Intelligence
+Domain| Technologies & Tools
+Languages| Python, C
+Data| SQL, Pandas, NumPy
+AI / ML| Machine Learning Fundamentals
+Version Control| Git, GitHub
+Development| VS Code
+Operating System| Windows
 
 ---
 
-Current Focus
+Currently Learning
 
-I'm currently focused on strengthening my fundamentals and developing the skills required to build real-world applications in AI and Data Science.
+Python
+ ├── Programming Fundamentals
+ ├── Data Structures
+ └── Problem Solving
 
-My priorities are:
+Data Science
+ ├── NumPy
+ ├── Pandas
+ ├── SQL
+ └── Statistics
 
-- Improving programming fundamentals
-- Practicing problem solving
-- Learning Python for data-related applications
-- Understanding SQL and databases
-- Exploring Machine Learning and AI
-- Building my first meaningful projects
-
----
-
-Goals
-
-- Build a strong foundation in Computer Science
-- Become proficient in Python and SQL
-- Develop strong problem-solving skills
-- Learn Artificial Intelligence and Machine Learning
-- Build real-world projects
-- Participate in hackathons and technical competitions
-- Gain internship experience
-- Work towards a career as an AI Engineer or Data Analyst
+AI / Machine Learning
+ ├── ML Fundamentals
+ ├── Data Preprocessing
+ └── Model Building
 
 ---
 
-Currently Building
+Career Roadmap
 
-My foundation.
+- ✅ Started my B.Tech journey in Artificial Intelligence & Data Science
+- 🔄 Strengthen Python and programming fundamentals
+- 🔄 Learn SQL, NumPy, Pandas and Statistics
+- 🎯 Build my first Data Science projects
+- 🎯 Learn Machine Learning
+- 🎯 Build an AI/ML portfolio
+- 🎯 Secure a strong internship
+- 🚀 Target 10+ LPA placement by 3rd year
+- 🤖 Long-term goal: AI Engineer
 
-I'm at the stage of learning, experimenting, and preparing to build my first projects.
+---
 
-This profile will grow alongside my skills.
+Certifications & Achievements
 
+«Currently building my foundation and working toward my first major technical achievements.»
+
+- 🎓 B.Tech Artificial Intelligence & Data Science
+- 📚 Continuous learning in Python, Data Science & AI
+- 🚀 More certifications and achievements coming soon
+
+---
+
+GitHub Activity & Metrics
+
+"GitHub Stats" ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+"GitHub Streak" ![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+
+"Top Languages" ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 ---
 
 Connect With Me
 
-GitHub:
-lewis-marvel 
+I'm always open to connecting with fellow students, developers, AI enthusiasts and people interested in technology.
 
-LinkedIn:
-https://www.linkedin.com/in/lewis-mclaren-83a4a3436?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- 💼 LinkedIn: Add your LinkedIn profile
+- 🐙 GitHub: Add your GitHub profile
 
 ---
 
-«Learn. Build. Improve.»
+"Learn. Build. Improve. Repeat."
+
+Lewis Mclaren M.
