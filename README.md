@@ -85,8 +85,8 @@ Connect With Me
 
 I'm always open to connecting with fellow students, developers, AI enthusiasts and people interested in technology.
 
-- 💼 LinkedIn: Add your LinkedIn profile
-- 🐙 GitHub: Add your GitHub profile
+- 💼 LinkedIn: https://www.linkedin.com/in/lewis-mclaren-83a4a3436?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- 🐙 GitHub: https://github.com/lewis-marvel/lewis-marvel
 
 ---
 
